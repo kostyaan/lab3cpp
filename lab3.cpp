@@ -50,6 +50,6 @@ int main() {
     };
 
     selectGroup(students, sizeof(students) / sizeof(students[0]));
-
+ 
     return 0;
 }
